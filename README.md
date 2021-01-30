@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - [Nasal](https://github.com/ValKmjolnir/Nasal-Interpreter): Interpreter of script language Nasal, which is used in a famous flight simulator FlightGear.
 - [easyNLP](https://github.com/ValKmjolnir/easyNLP): Simple NLP framework.I will refactor it in the future if i have time and the interest...
-- [nas-sharp](https://github.com/ValKmjolnir/nas-sharp): Refactoring...
+- [nas-sharp](https://github.com/ValKmjolnir/nas-sharp): Subset of Nasal: Stack-based virtual machine.Call-threading instruction dispatch.Strong typing.LL(1) parser.Easy to add your own built-in functions and use them.Don't need to learn too much to use this language.
 - [Balloon-OS](https://github.com/ValKmjolnir/Balloon-OS): Simple operating system(still in development).
 - [Brainfuck](https://github.com/ValKmjolnir/Brainfuck-interpreter): Enjoy the interpreter of a famous language: Brainfuck.
 - [MIPS-CPU](https://github.com/ValKmjolnir/MIPS-CPU): Course design of Computer Organization. Written by verilog. Instruction set: MIPS32.
