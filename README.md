@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=ValKmjolnir&show_icons=true&count_private=true&theme=radical)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=ValKmjolnir&layout=compact&show_icons=true&theme=radical)
+
+![snake gif](https://github.com/ValKmjolnir/ValKmjolnir/blob/output/github-contribution-grid-snake.gif)
