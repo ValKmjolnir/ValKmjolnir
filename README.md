@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 
 - [Nasal](https://github.com/ValKmjolnir/Nasal-Interpreter): Interpreter of script language Nasal, which is used in a famous flight simulator FlightGear.
 - [easyNLP](https://github.com/ValKmjolnir/easyNLP): Simple NLP framework.I will refactor it in the future if i have time and the interest...
-- [nas-sharp](https://github.com/ValKmjolnir/nas-sharp): Subset of Nasal: Stack-based virtual machine.Call-threading instruction dispatch.Strong typing.LL(1) parser.Easy to add your own built-in functions and use them.Don't need to learn too much to use this language.
+- [Nas-sharp](https://github.com/ValKmjolnir/nas-sharp): Subset of Nasal: Stack-based virtual machine.Call-threading instruction dispatch.Strong typing.LL(1) parser.Easy to add your own built-in functions and use them.Don't need to learn too much to use this language.
 - [Balloon-OS](https://github.com/ValKmjolnir/Balloon-OS): Simple operating system(still in development).
 - [Brainfuck](https://github.com/ValKmjolnir/Brainfuck-interpreter): Enjoy the interpreter of a famous language: Brainfuck.
+- [Brainfuck-JIT](https://github.com/ValKmjolnir/brainfuck-jit): Just-In-Time compiler for brainfuck on amd64-system-v platform.
 - [MIPS-CPU](https://github.com/ValKmjolnir/MIPS-CPU): Course design of Computer Organization. Written by verilog. Instruction set: MIPS32.
 - [MIPS-VM](https://github.com/ValKmjolnir/MIPS-virtual-machine): I wrote this to check if my assembly code can run...
 - [Game-of-Life](https://github.com/ValKmjolnir/Game-of-Life): Famous cellular automata. It runs in console.
@@ -38,5 +39,3 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=ValKmjolnir&show_icons=true&count_private=true&theme=radical)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=ValKmjolnir&layout=compact&show_icons=true&theme=radical)
-
-![snake gif](https://github.com/ValKmjolnir/ValKmjolnir/blob/output/github-contribution-grid-snake.gif)
