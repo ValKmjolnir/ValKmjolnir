@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 😂
 I am __ValKmjolnir__.
-A student in
-Nanjing University of Aeronautics and Astronautics (__NUAA__).
+A student of Nanjing University of Aeronautics and Astronautics (__NUAA__) from 2018 to 2022.
 
-✨ I often take a lot of time learning about __how something works__ ...
+✨ I often take a lot of time learning about __how some interesting things work__ ...
 
 💻 I am interested in and good at:
 
@@ -46,7 +45,7 @@ Nanjing University of Aeronautics and Astronautics (__NUAA__).
 * [__easyNLP__](https://github.com/ValKmjolnir/easyNLP)
 
     Simple __NLP__ framework.
-    I will refactor it in the future if i have time and the interest.
+    I will refactor it in the future if have time and interest.
 
 * [__Nas#__](https://github.com/ValKmjolnir/nas-sharp)
 
@@ -84,6 +83,9 @@ Nanjing University of Aeronautics and Astronautics (__NUAA__).
 * [__3D-Room__](https://github.com/ValKmjolnir/3D-Room)
 
     Experiment of Computer Graphics. And you could also play cellcular automata in this room...
+* [__Turing Machine Simulator__](https://github.com/ValKmjolnir/turingmachine-weixinapp)
+
+    __Graduation Project in NUAA__. I finished a weixin-mini-program helping teachers and students build simple turing machine models and test them.
 
 ✈️ I am also working on [evm](https://github.com/scriptiot/evm).
 
