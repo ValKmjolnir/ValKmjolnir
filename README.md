@@ -35,12 +35,10 @@ A student of Nanjing University of Aeronautics and Astronautics (__NUAA__) from 
 
     __Interpreter__ of scripting language __Nasal__,
     which is used in a famous flight simulator __FlightGear__.
-
     This interpreter now uses a __stack-based virtual machine__ with __high performence__,
     and __Call-threading__(or computed-goto) instruction dispatch.
 
-    It's really __easy__ for everyone to learn and this doesn't take a lot of time.
-    And also, it's easy to add your own __libs__ written by __C/C++__ and use them in __nasal__.
+    It's really __easy__ for everyone to learn and this doesn't take a lot of time. And also, it's easy to add your own __libs__ written by __C/C++__ and use them in __nasal__. We hope this new interpreter could help you to __find syntax errors or logic errors in the codes more easily__ or __write codes that don't need the environment of flightgear__(aka __standalone__ runtime).
 
 * [__easyNLP__](https://github.com/ValKmjolnir/easyNLP)
 
