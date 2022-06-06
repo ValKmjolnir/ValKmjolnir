@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
 
 😂
 I am __ValKmjolnir__.
@@ -24,14 +25,14 @@ A student of __Nanjing University of Aeronautics and Astronautics__  from 2018 t
 💻 I am interested in and good at:
 
 * __Interpreter__ 💻
-
 * __Compiler__ 🖥️
-
 * __Artificial Intelligence__ 🤖
 
 🚀 I have done a lot of work before:
 
 * [__Nasal__](https://github.com/ValKmjolnir/Nasal-Interpreter)
+
+    [![nasal](https://github-readme-stats.vercel.app/api/pin/?username=ValKmjolnir&repo=Nasal-Interpreter&theme=onedark)](https://github.com/ValKmjolnir/Nasal-Interpreter)
 
     __Interpreter__ of scripting language __Nasal__,
     which is used in a famous flight simulator __FlightGear__.
@@ -40,9 +41,13 @@ A student of __Nanjing University of Aeronautics and Astronautics__  from 2018 t
 
 * [__Nas#__](https://github.com/ValKmjolnir/nas-sharp)
 
+    [![nasal](https://github-readme-stats.vercel.app/api/pin/?username=ValKmjolnir&repo=nas-sharp&theme=onedark)](https://github.com/ValKmjolnir/nas-sharp)
+
     This is a __Subset__ of __Nasal__. This project was used to __test__ the framework of __stack-based virtual machine__ and __call-threading__ instruction dispatch. The technique is now used in __Nasal__ so i stopped developing this interpreter. This language is strong typing, using __LL(1)__ parser.
 
 * [__Turing Machine Simulator__](https://github.com/ValKmjolnir/turingmachine-weixinapp)
+
+    [![nasal](https://github-readme-stats.vercel.app/api/pin/?username=ValKmjolnir&repo=turingmachine-weixinapp&theme=onedark)](https://github.com/ValKmjolnir/turingmachine-weixinapp)
 
     This is my __Graduation Project in NUAA__. I finished a weixin-mini-program helping teachers and students build simple turing machine models and test them. This software uses __vision-based interface__ to let users easily using it. But it is not designed for building large-scale turing machine model.
 
@@ -66,43 +71,56 @@ A student of __Nanjing University of Aeronautics and Astronautics__  from 2018 t
 
 ⌚ __Github Profile Details__
 
-![ValKmjolnir](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValKmjolnir&theme=github_dark)
+![ValKmjolnir](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValKmjolnir&theme=radical)
 
 👻 __Github Stats__
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ValKmjolnir&show_icons=true&count_private=true&theme=radical)
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=ValKmjolnir&layout=compact&show_icons=true&theme=radical)
+|||
+|:--:|:--:|
+|![Stats](https://github-readme-stats.vercel.app/api?username=ValKmjolnir&show_icons=true&count_private=true&theme=onedark)|![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=ValKmjolnir&layout=compact&show_icons=true&theme=onedark)|
+|![TopCommitLangs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValKmjolnir&theme=radical)|![commitTime](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValKmjolnir&theme=radical)|
 
 🔥 __Github Streaks__
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=ValKmjolnir&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=ValKmjolnir&theme=onedark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
 
 🐟 __Github Contributions__
 
-![contri](https://activity-graph.herokuapp.com/graph?username=ValKmjolnir&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true)
+![contri](https://activity-graph.herokuapp.com/graph?username=ValKmjolnir&bg_color=FF000000&color=E05397&line=E05397&point=FFFFFF&hide_border=true)
 
 🏆 __Github Achievements__
 
-![achievement](https://github-profile-trophy.vercel.app/?username=ValKmjolnir&margin-w=5&theme=radical)
+![achievement](https://github-profile-trophy.vercel.app/?username=ValKmjolnir&margin-w=5&row=1&theme=onedark)
 
-📝 __Programming Languages__
+📝 __Programming Languages & others__
 
-![C](https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
-![C++](https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
-![js](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![rust](https://img.shields.io/badge/rust-444444?style=flat-square&logo=rust)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-D1EEEE?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/Java-EE9A00?style=flat-square&logo=java)
+![nasal](https://img.shields.io/badge/Nasal-FF9559?style=flat-square&logo=html5)
+![node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![wasm](https://img.shields.io/badge/WASM-9F79EE?style=flat-square&logo=webassembly)
 
-![rust](https://camo.githubusercontent.com/0b67f2eb691b83144519058d27f3ae6104f24a760db25d4a0566c7c40f53731f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727573742d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72757374266c6f676f436f6c6f723d7768697465)
-![py](https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
-![JAVA](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-EE9A00?style=flat-square&logo=ubuntu)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos)
+![qemu](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![vmware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
-📝 __Markdown, Styling Languages__
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown)
+![latex](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)
 
-![jpt](https://camo.githubusercontent.com/ec18bacb4dbd8b58279a58f3aa9ece08d73d72191e06b415c9faa0f4f1884aa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465)
-![LaTeX](https://camo.githubusercontent.com/e464c1da94fa62c15f6a6dc83e36ad97f7310551a4c4f0aa8d1d6a49a89cbe07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)
-![md](https://camo.githubusercontent.com/a44844ce4d3bf26f4685d5ae0e0fab359cdeca62ad71c675d3d89fd30f418665/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
+![MySQL](https://img.shields.io/badge/MySQL-555599?style=flat-square&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
-📦️ __Databases__
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake)
+![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![mysql](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
-![neo4j](https://camo.githubusercontent.com/db560f13ad695c842c5492027546fae1c1b7f5a5add96aad584a318410dc1803/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e656f346a2d3030384343313f7374796c653d666f722d7468652d6261646765266c6f676f3d6e656f346a266c6f676f436f6c6f723d7768697465)
+![github](https://img.shields.io/badge/github-000000?style=flat-square&logo=github)
+![gitee](https://img.shields.io/badge/gitee-000000?style=flat-square&logo=gitee)
