@@ -51,7 +51,11 @@ A student of __Nanjing University of Aeronautics and Astronautics__  from 2018 t
 
     This is my __Graduation Project in NUAA__. I finished a weixin-mini-program helping teachers and students build simple turing machine models and test them. This software uses __vision-based interface__ to let users easily using it. But it is not designed for building large-scale turing machine model.
 
-* [__easyNLP__](https://github.com/ValKmjolnir/easyNLP) Simple __NLP__ framework. I will refactor it in the future.
+* [__easyNLP__](https://github.com/ValKmjolnir/easyNLP)
+
+    [![nasal](https://github-readme-stats.vercel.app/api/pin/?username=ValKmjolnir&repo=easyNLP&theme=onedark)](https://github.com/ValKmjolnir/easyNLP)
+
+    Simple __NLP__ framework. I will refactor it in the future.
 
 * [__Balloon-OS__](https://github.com/ValKmjolnir/Balloon-OS) Simple operating system (__in development__).
 
