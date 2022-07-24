@@ -35,7 +35,7 @@ artificial intelligence🤖.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValKmjolnir&repo=Nasal-Interpreter&theme=onedark" width="35%"/>
 
     __Interpreter__ of scripting language used in a famous flight simulator __FlightGear__ called __Nasal__,
-    This interpreter uses __stack-based vm__ with __indirect-threading__ (or `computed-goto`) instruction dispatch.
+    This interpreter uses __stack-based vm__ with __direct-threading__ (or `computed-goto`) instruction dispatch.
     It's really __easy__ for everyone to learn and this doesn't take a lot of time.
     Also, it's easy to add your own __libs__ written by __C/C++__ and use them in __nasal__.
     We hope this new interpreter could help you to __find syntax or logic errors more easily__ or
