@@ -23,12 +23,9 @@ __Nanjing University of Aeronautics and Astronautics__ (NUAA)
 from 2018 to 2022.
 I often take lots of time learning about how some interesting things work and how to make programs running more efficiently.
 
-💻 I am interested in and good at:
-interpreter💻,
-compiler🖥️,
-artificial intelligence🤖.
+💻 Interested in and good at: __interpreter__ 💻, __compiler__ 🖥️, __artificial intelligence__ 🤖.
 
-🚀 I have done a lot of interesting works before:
+🚀 Interesting works:
 
 * [__Nasal__](https://github.com/ValKmjolnir/Nasal-Interpreter)
 
