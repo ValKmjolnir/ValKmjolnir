@@ -14,50 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
+![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=plastic)
 
 😂
 I am __ValKmjolnir__.
 A student of
 __Nanjing University of Aeronautics and Astronautics__ (NUAA)
 from 2018 to 2022.
-I often take lots of time learning about how some interesting things work and how to make programs running more efficiently.
+I often take lots of time learning how some interesting things work and how to make programs running more efficiently.
 
 💻 Interested in and good at: __interpreter__ 💻, __compiler__ 🖥️, __artificial intelligence__ 🤖.
 
 🚀 Interesting works:
 
-* [__Nasal__](https://github.com/ValKmjolnir/Nasal-Interpreter)
+* [__Nasal__](https://github.com/ValKmjolnir/Nasal-Interpreter) ![star](https://img.shields.io/github/stars/ValKmjolnir/Nasal-Interpreter?style=plastic) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Nasal-Interpreter?style=plastic)
 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValKmjolnir&repo=Nasal-Interpreter&theme=onedark" width="35%"/>
+    Interpreter of script language __Nasal__,
+    using __stack-based vm__ with __direct-threading__ (`computed-goto`) instruction dispatch.
+    __Easy__ for everyone to learn and add own libs written in C++.
+    This interpreter could help you to __find syntax or logic errors more easily__ or
+    __write codes without the environment of flightgear__.
 
-    __Interpreter__ of scripting language used in a famous flight simulator __FlightGear__ called __Nasal__,
-    This interpreter uses __stack-based vm__ with __direct-threading__ (or `computed-goto`) instruction dispatch.
-    It's really __easy__ for everyone to learn and this doesn't take a lot of time.
-    Also, it's easy to add your own __libs__ written by __C/C++__ and use them in __nasal__.
-    We hope this new interpreter could help you to __find syntax or logic errors more easily__ or
-    __write codes without the environment of flightgear__(aka __standalone__ runtime).
+* [__Turing Machine Simulator__](https://github.com/ValKmjolnir/turingmachine-weixinapp) ![star](https://img.shields.io/github/stars/ValKmjolnir/turingmachine-weixinapp?style=plastic) ![fork](https://img.shields.io/github/forks/ValKmjolnir/turingmachine-weixinapp?style=plastic)
 
-* [__Turing Machine Simulator__](https://github.com/ValKmjolnir/turingmachine-weixinapp)
-
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValKmjolnir&repo=turingmachine-weixinapp&theme=onedark" width="35%"/>
-
-    My __Graduation Project in NUAA__.
-    I finished a weixin-mini-program helping teachers and students build simple turing machine models and test them.
+    __Graduation Project in NUAA__.
+    I created a weixin-mini-program helping teachers and students build simple turing machines and test them.
     This software uses __vision-based interface__ to let users easily using it.
 
-* [__easyNLP__](https://github.com/ValKmjolnir/easyNLP) Simple __NLP__ framework. I will refactor it in the future.
+* [__easyNLP__](https://github.com/ValKmjolnir/easyNLP) ![star](https://img.shields.io/github/stars/ValKmjolnir/easyNLP?style=plastic) ![fork](https://img.shields.io/github/forks/ValKmjolnir/easyNLP?style=plastic)
 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValKmjolnir&repo=easyNLP&theme=onedark" width="35%"/>
+    Simple __NLP__ framework. I will refactor it in the future.
 
 * [__Nas#__](https://github.com/ValKmjolnir/nas-sharp)
-    __Subset__ of __Nasal__. This repo was used to test the framework of __stack-based vm__ and __call-threading__ instruction dispatch, which were used in __Nasal__. This language is strong typing, using __LL(1)__ parser.
+    __Subset__ of __Nasal__. Used to test __stack-based vm__ and __call-threading__ instruction dispatch. This language is strong typing, using __LL(1)__ parser.
 
-* [__Balloon-OS__](https://github.com/ValKmjolnir/Balloon-OS) Simple operating system (in dev).
+* [__Balloon-OS__](https://github.com/ValKmjolnir/Balloon-OS) Simple operating system (in development).
 
 * [__Brainfuck-JIT__](https://github.com/ValKmjolnir/brainfuck-jit) __Just-In-Time compiler__ for bf on __amd64-system-v__ platform.
 
-* [__MIPS-CPU__](https://github.com/ValKmjolnir/MIPS-CPU) Course design of Computer Organization using __verilog__. Instruction set: __MIPS32__.
+* [__MIPS-CPU__](https://github.com/ValKmjolnir/MIPS-CPU) Course design of Computer Organization using __verilog__.
 
 ⌚ __Github Profile Details__
 
