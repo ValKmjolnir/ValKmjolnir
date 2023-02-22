@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=plastic)
+![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
 
 😂
 I am __ValKmjolnir__.
@@ -27,18 +27,18 @@ I take lots of time learning how some interesting things work and how to make pr
 
 🚀 Interesting works:
 
-* [__Nasal - Modern Standalone Interpreter__](https://github.com/ValKmjolnir/Nasal-Interpreter) ![star](https://img.shields.io/github/stars/ValKmjolnir/Nasal-Interpreter?style=plastic) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Nasal-Interpreter?style=plastic)
+* [__Nasal - Modern Standalone Interpreter__](https://github.com/ValKmjolnir/Nasal-Interpreter) ![star](https://img.shields.io/github/stars/ValKmjolnir/Nasal-Interpreter?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Nasal-Interpreter?style=flat-square)
 
     Interpreter of script language __Nasal__.
     __Stack-based vm__ with __direct-threading__ (`computed-goto`) instruction dispatch.
     __Easy__ for everyone to learn and use.
 
-* [__Turing Machine - Simulator__](https://github.com/ValKmjolnir/turingmachine-weixinapp) ![star](https://img.shields.io/github/stars/ValKmjolnir/turingmachine-weixinapp?style=plastic) ![fork](https://img.shields.io/github/forks/ValKmjolnir/turingmachine-weixinapp?style=plastic)
+* [__Turing Machine - Simulator__](https://github.com/ValKmjolnir/turingmachine-weixinapp) ![star](https://img.shields.io/github/stars/ValKmjolnir/turingmachine-weixinapp?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/turingmachine-weixinapp?style=flat-square)
 
     Graduation Project.
     A weixin-mini-program that helping teachers and students build simple turing machines and test them, using __vision-based interface__ .
 
-* [__easyNLP - Simple NLP Framework__](https://github.com/ValKmjolnir/easyNLP) ![star](https://img.shields.io/github/stars/ValKmjolnir/easyNLP?style=plastic) ![fork](https://img.shields.io/github/forks/ValKmjolnir/easyNLP?style=plastic)
+* [__easyNLP - Simple NLP Framework__](https://github.com/ValKmjolnir/easyNLP) ![star](https://img.shields.io/github/stars/ValKmjolnir/easyNLP?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/easyNLP?style=flat-square)
 
     Simple __NLP__ framework.
 
@@ -73,10 +73,13 @@ I take lots of time learning how some interesting things work and how to make pr
 ![rust](https://img.shields.io/badge/rust-444444?style=flat-square&logo=rust)
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-D1EEEE?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/Java-EE9A00?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-EE9A00?style=flat-square&logo=Oracle)
+
 ![nasal](https://img.shields.io/badge/Nasal-FF9559?style=flat-square&logo=html5)
 ![node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![wasm](https://img.shields.io/badge/WASM-9F79EE?style=flat-square&logo=webassembly)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-EE9A00?style=flat-square&logo=ubuntu)
@@ -85,12 +88,15 @@ I take lots of time learning how some interesting things work and how to make pr
 ![qemu](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![vmware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown)
 ![latex](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)
+
 ![MySQL](https://img.shields.io/badge/MySQL-555599?style=flat-square&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake)
+
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-000000?style=flat-square&logo=github)
 ![gitee](https://img.shields.io/badge/gitee-000000?style=flat-square&logo=gitee)
