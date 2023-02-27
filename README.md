@@ -52,12 +52,10 @@ I take lots of time learning how some interesting things work and how to make pr
 
 👻 __Github Stats__
 
-<img src="https://github-readme-stats.vercel.app/api?username=ValKmjolnir&show_icons=true&count_private=true&theme=onedark" width="35%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValKmjolnir&layout=compact&show_icons=true&theme=onedark" width="27%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValKmjolnir&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValKmjolnir&theme=radical" width="32%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ValKmjolnir&show_icons=true&count_private=true&theme=onedark" width="40%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValKmjolnir&layout=compact&show_icons=true&theme=onedark" width="31%"/>
+<!--
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValKmjolnir&theme=radical" width="32%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValKmjolnir&theme=radical" width="32%"/>
+-->
 
 🔥 __Github Streaks and Contributions__
 
