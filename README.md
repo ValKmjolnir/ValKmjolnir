@@ -40,27 +40,31 @@ I take lots of time learning how some interesting things work and how to make pr
 
 * [__easyNLP - Simple NLP Framework__](https://github.com/ValKmjolnir/easyNLP) ![star](https://img.shields.io/github/stars/ValKmjolnir/easyNLP?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/easyNLP?style=flat-square)
 
-    Simple __NLP__ framework.
+* [__Balloon-OS - Simple Operating System(WIP)__](https://github.com/ValKmjolnir/Balloon-OS) ![star](https://img.shields.io/github/stars/ValKmjolnir/Balloon-OS?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Balloon-OS?style=flat-square)
 
-* [__Balloon-OS__](https://github.com/ValKmjolnir/Balloon-OS) Simple operating system (in development).
+* [__Brainfuck-JIT - Just In Time Compiler__](https://github.com/ValKmjolnir/brainfuck-jit) ![star](https://img.shields.io/github/stars/ValKmjolnir/brainfuck-jit?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/brainfuck-jit?style=flat-square)
 
-* [__Brainfuck-JIT__](https://github.com/ValKmjolnir/brainfuck-jit) __Just-In-Time compiler__ for Brainfuck on __amd64/x86_64__.
-
-* [__MIPS CPU__](https://github.com/ValKmjolnir/MIPS-CPU) Course design of Computer Organization using __verilog__.
+* [__MIPS-CPU - Verilog Course Design__](https://github.com/ValKmjolnir/MIPS-CPU) ![star](https://img.shields.io/github/stars/ValKmjolnir/MIPS-CPU?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/MIPS-CPU?style=flat-square)
 
 ⌚ __Github Profile Details__
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValKmjolnir&theme=radical" width="60%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValKmjolnir&theme=radical" width="70%"/>
 
 👻 __Github Stats__
 
-<img src="https://github-readme-stats.vercel.app/api?username=ValKmjolnir&show_icons=true&count_private=true&theme=onedark" width="36%"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValKmjolnir&layout=compact&show_icons=true&theme=onedark" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ValKmjolnir&show_icons=true&count_private=true&theme=onedark" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValKmjolnir&layout=compact&show_icons=true&theme=onedark" width="31%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValKmjolnir&theme=radical" width="33%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValKmjolnir&theme=radical" width="33%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValKmjolnir&theme=radical" width="36%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValKmjolnir&theme=radical" width="36%"/>
+
 
 🔥 __Github Streaks and Contributions__
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ValKmjolnir&theme=onedark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" width="40%"/><img src="https://activity-graph.herokuapp.com/graph?username=ValKmjolnir&bg_color=FF000000&color=E05397&line=E05397&point=FFFFFF&hide_border=true" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ValKmjolnir&theme=onedark&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" width="50%"/>
+<!--
+<img src="https://activity-graph.herokuapp.com/graph?username=ValKmjolnir&bg_color=FF000000&color=E05397&line=E05397&point=FFFFFF&hide_border=true" width="40%"/>
+-->
 
 🏆 __Github Achievements__
 
@@ -73,8 +77,6 @@ I take lots of time learning how some interesting things work and how to make pr
 ![rust](https://img.shields.io/badge/rust-444444?style=flat-square&logo=rust)
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-D1EEEE?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/Java-EE9A00?style=flat-square&logo=Oracle)
-
 ![nasal](https://img.shields.io/badge/Nasal-FF9559?style=flat-square&logo=html5)
 ![node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![wasm](https://img.shields.io/badge/WASM-9F79EE?style=flat-square&logo=webassembly)
@@ -84,7 +86,6 @@ I take lots of time learning how some interesting things work and how to make pr
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-EE9A00?style=flat-square&logo=ubuntu)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos)
-
 ![qemu](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![vmware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
@@ -92,11 +93,9 @@ I take lots of time learning how some interesting things work and how to make pr
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown)
 ![latex](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)
-
 ![MySQL](https://img.shields.io/badge/MySQL-555599?style=flat-square&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake)
-
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-000000?style=flat-square&logo=github)
 ![gitee](https://img.shields.io/badge/gitee-000000?style=flat-square&logo=gitee)
