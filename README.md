@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 👋 ![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
 
 <!--
 **ValKmjolnir/ValKmjolnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
 
 😂
 I am __ValKmjolnir__.
 Student of
 __Nanjing University of Aeronautics and Astronautics__ (NUAA)
 from 2018 to 2022.
-I take lots of time learning how some interesting things work and how to make programs running more efficiently.
 
 💻 Interested in: __Interpreter__ 💻, __Compiler__ 🖥️, __Artificial Intelligence__ 🤖.
 
@@ -29,26 +27,25 @@ I take lots of time learning how some interesting things work and how to make pr
 
 * [__Nasal - Modern Standalone Interpreter__](https://github.com/ValKmjolnir/Nasal-Interpreter) ![star](https://img.shields.io/github/stars/ValKmjolnir/Nasal-Interpreter?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Nasal-Interpreter?style=flat-square)
 
-    Interpreter of script language __Nasal__.
-    __Stack-based vm__ with __direct-threading__ (`computed-goto`) instruction dispatch.
-    __Easy__ for everyone to learn and use.
+    Interpreter of script __Nasal__.
+    __Stack-based vm__ with __direct-threading__ instruction dispatch.
+    __Easy__ to learn and use.
 
 * [__Turing Machine - Simulator__](https://github.com/ValKmjolnir/turingmachine-weixinapp) ![star](https://img.shields.io/github/stars/ValKmjolnir/turingmachine-weixinapp?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/turingmachine-weixinapp?style=flat-square)
 
-    Graduation Project.
-    A weixin-mini-program that helping teachers and students build simple turing machines and test them, using __vision-based interface__ .
+    Weixin-mini-program that helping everyone build and test simple turing machines, using __vision-based interface__ .
 
 * [__easyNLP - Simple NLP Framework__](https://github.com/ValKmjolnir/easyNLP) ![star](https://img.shields.io/github/stars/ValKmjolnir/easyNLP?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/easyNLP?style=flat-square)
 
-* [__Balloon-OS - Simple Operating System(WIP)__](https://github.com/ValKmjolnir/Balloon-OS) ![star](https://img.shields.io/github/stars/ValKmjolnir/Balloon-OS?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Balloon-OS?style=flat-square)
+* [__Balloon - Simple Operating System(WIP)__](https://github.com/ValKmjolnir/Balloon-OS) ![star](https://img.shields.io/github/stars/ValKmjolnir/Balloon-OS?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Balloon-OS?style=flat-square)
 
-* [__Brainfuck-JIT - Just In Time Compiler__](https://github.com/ValKmjolnir/brainfuck-jit) ![star](https://img.shields.io/github/stars/ValKmjolnir/brainfuck-jit?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/brainfuck-jit?style=flat-square)
+* [__Brainfuck - Just In Time Compiler__](https://github.com/ValKmjolnir/brainfuck-jit) ![star](https://img.shields.io/github/stars/ValKmjolnir/brainfuck-jit?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/brainfuck-jit?style=flat-square)
 
 * [__MIPS-CPU - Verilog Course Design__](https://github.com/ValKmjolnir/MIPS-CPU) ![star](https://img.shields.io/github/stars/ValKmjolnir/MIPS-CPU?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/MIPS-CPU?style=flat-square)
 
 ⌚ __Github Profile Details__
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValKmjolnir&theme=radical" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValKmjolnir&theme=radical" width="65%"/>
 
 👻 __Github Stats__
 
@@ -59,14 +56,14 @@ I take lots of time learning how some interesting things work and how to make pr
 
 🔥 __Github Streaks and Contributions__
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ValKmjolnir&theme=onedark&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ValKmjolnir&theme=onedark&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" width="40%"/>
 <!--
 <img src="https://activity-graph.herokuapp.com/graph?username=ValKmjolnir&bg_color=FF000000&color=E05397&line=E05397&point=FFFFFF&hide_border=true" width="40%"/>
 -->
 
 🏆 __Github Achievements__
 
-<img src="https://github-profile-trophy.vercel.app/?username=ValKmjolnir&margin-w=4&row=1&theme=onedark" width="70%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ValKmjolnir&margin-w=4&row=1&theme=onedark" width="65%"/>
 
 📝 __Programming Languages & others__
 
