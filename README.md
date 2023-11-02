@@ -1,4 +1,4 @@
-# Hello there 👋 ![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
+# Hello! 👋 ![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
 
 <!--
 **ValKmjolnir/ValKmjolnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 😂
 I am __ValKmjolnir__.
+
+🧐
 Student of
-__Nanjing University of Aeronautics and Astronautics__ (NUAA)
+__Nanjing University of Aeronautics and Astronautics__
 from 2018 to 2022.
 
 💻 Interested in: __Interpreter__ 💻, __Compiler__ 🖥️, __Artificial Intelligence__ 🤖.
@@ -27,19 +29,13 @@ from 2018 to 2022.
 
 * [__Nasal - Modern Standalone Interpreter__](https://github.com/ValKmjolnir/Nasal-Interpreter) ![star](https://img.shields.io/github/stars/ValKmjolnir/Nasal-Interpreter?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Nasal-Interpreter?style=flat-square)
 
-    Interpreter of script __Nasal__.
-    __Stack-based vm__ with __direct-threading__ instruction dispatch.
-    __Easy__ to learn and use.
-
-* [__Turing Machine - Simulator__](https://github.com/ValKmjolnir/turingmachine-weixinapp) ![star](https://img.shields.io/github/stars/ValKmjolnir/turingmachine-weixinapp?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/turingmachine-weixinapp?style=flat-square)
-
-    Weixin-mini-program that helping everyone build and test simple turing machines, using __vision-based interface__ .
+* [__Turing Machine Simulator - Weixin App__](https://github.com/ValKmjolnir/turingmachine-weixinapp) ![star](https://img.shields.io/github/stars/ValKmjolnir/turingmachine-weixinapp?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/turingmachine-weixinapp?style=flat-square)
 
 * [__easyNLP - Simple NLP Framework__](https://github.com/ValKmjolnir/easyNLP) ![star](https://img.shields.io/github/stars/ValKmjolnir/easyNLP?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/easyNLP?style=flat-square)
 
-* [__Balloon - Simple Operating System(WIP)__](https://github.com/ValKmjolnir/Balloon-OS) ![star](https://img.shields.io/github/stars/ValKmjolnir/Balloon-OS?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Balloon-OS?style=flat-square)
+* [__BrainfuckJIT - Just In Time Compiler__](https://github.com/ValKmjolnir/brainfuck-jit) ![star](https://img.shields.io/github/stars/ValKmjolnir/brainfuck-jit?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/brainfuck-jit?style=flat-square)
 
-* [__Brainfuck - Just In Time Compiler__](https://github.com/ValKmjolnir/brainfuck-jit) ![star](https://img.shields.io/github/stars/ValKmjolnir/brainfuck-jit?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/brainfuck-jit?style=flat-square)
+* [__Balloon - Simple Operating System(WIP)__](https://github.com/ValKmjolnir/Balloon-OS) ![star](https://img.shields.io/github/stars/ValKmjolnir/Balloon-OS?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/Balloon-OS?style=flat-square)
 
 * [__MIPS-CPU - Verilog Course Design__](https://github.com/ValKmjolnir/MIPS-CPU) ![star](https://img.shields.io/github/stars/ValKmjolnir/MIPS-CPU?style=flat-square) ![fork](https://img.shields.io/github/forks/ValKmjolnir/MIPS-CPU?style=flat-square)
 
