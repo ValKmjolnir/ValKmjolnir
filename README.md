@@ -1,12 +1,15 @@
-# Hello! 👋 ![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
+# Hello! 👋 ![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square) [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/ValKmjolnir)](https://githubroast.dev/u/ValKmjolnir)
+
+[![GitHub Roast](https://githubroast.dev/api/card/ValKmjolnir)](https://githubroast.dev/u/ValKmjolnir)
 
 I am ValKmjolnir. A Compiler & Interpreter enthusiast.
 
 🚀 __Interesting Works About Compiler & Interpreter__
 
 - [Nasal: Standalone interpreter for nasal, programming language used in Flighgear](https://github.com/ValKmjolnir/Nasal-Interpreter)
-- [BrainfuckJIT: x86_64(amd64) JIT compiler for Brainfuck](https://github.com/ValKmjolnir/brainfuck-jit)
 - [Colgm: Programming language compiled to LLVM, using self-host compiler](https://github.com/colgm/colgm)
+- [Colgm-MLIR: DSL compiled to MLIR](https://github.com/colgm/colgm-mlir)
+- [BrainfuckJIT: x86_64(amd64) JIT compiler for Brainfuck](https://github.com/ValKmjolnir/brainfuck-jit)
 - [GodelScript: Datalog DSL for codefuse-query](https://github.com/codefuse-ai/CodeFuse-Query/tree/main/godel-script)
 - [PL/0: NUAA Compiler Principles, with a runnable vm backend](https://github.com/ValKmjolnir/PL0)
 
