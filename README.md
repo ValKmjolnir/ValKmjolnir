@@ -1,6 +1,4 @@
-# Hello! 👋 ![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square) [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/ValKmjolnir)](https://githubroast.dev/u/ValKmjolnir)
-
-[![GitHub Roast](https://githubroast.dev/api/card/ValKmjolnir)](https://githubroast.dev/u/ValKmjolnir)
+# Hello! 👋 ![vcnt](https://komarev.com/ghpvc/?username=ValKmjolnir&&style=flat-square)
 
 I am ValKmjolnir. A Compiler & Interpreter enthusiast.
 
